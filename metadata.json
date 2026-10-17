@@ -1,0 +1,6 @@
+{
+  "name": "IRAZIA - Modern DTC Fashion Storefront",
+  "description": "Viral Sheer Illusion fleece-lined tights and elevated cold-weather essentials designed to keep you cozy, chic, and snatched all season long.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
